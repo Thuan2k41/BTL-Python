@@ -2,7 +2,7 @@ import pygame
 import math
 import random
 
-# setup display
+# setup display dddddsss
 
 
 pygame.init()
