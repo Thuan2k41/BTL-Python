@@ -1,7 +1,7 @@
 import pygame
 import math
 import random
-
+# ok 
 # setup display
 pygame.init()
 WIDTH, HEIGHT = 800, 500
