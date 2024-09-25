@@ -3,6 +3,7 @@ import math
 import random
 # ok 
 # setup display
+#didj
 pygame.init()
 WIDTH, HEIGHT = 800, 500
 win = pygame.display.set_mode((WIDTH, HEIGHT)) # thiết lập cửa sổ 
